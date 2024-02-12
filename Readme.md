@@ -3,3 +3,5 @@
 
 prueba del sistema:
 --- npn install react ---
+
+Se registro otra carpeta 
